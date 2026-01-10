@@ -56,3 +56,4 @@ Users can set **start points**, **end points**, draw **walls**, and watch how ea
 
    ```bash
    git clone https://github.com/dharshini-2007/DFS-BFS-Visualizer.git
+
